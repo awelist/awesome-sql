@@ -132,6 +132,7 @@
 - [SQL Style Guide](https://www.sqlstyle.guide/) – Best practices and conventions.
 - [QueryCase](https://querycase.com) - Browser-based SQL learning game with detective-themed cases covering SELECT through window functions.
 - [Use The Index, Luke](https://use-the-index-luke.com/) - A free guide to SQL indexing and query performance for developers.
+- [SQL Dojo](https://sqldojo.dev/) - Hands-on SQL exercises on real data in the browser, checked instantly, from the first SELECT to window functions.
 
 ## Related Awesome Lists
 
